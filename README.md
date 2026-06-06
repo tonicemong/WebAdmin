@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/최신버전-BETA%20v1.1-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/최신버전-BETA%20v1.2-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/테스트환경-Paper%201.21.11-61DAFB?style=for-the-badge&logo=minecraft&logoColor=white">
 </p>
 
 ---
-
+[![플러그인 미리보기](https://emong-webadmin.netlify.app/)](https://emong-webadmin.netlify.app/)
 ## 📝 프로젝트 소개
 **WebAdmin**은 마인크래프트 서버 운영자가 게임 내에 접속하지 않고도 
 <br>**웹 브라우저를 통해 실시간으로 서버를 관리**할 수 있도록 설계된 통합 관리 솔루션입니다. 
@@ -78,6 +78,25 @@
 ---
 
 ### 📂 상세 업데이트 내역
+
+<details>
+<summary><b>v1.2.0 (2026-06-07) - 업데이트 내역</b></summary>
+
+---
+
+**[ 대시보드 ]**
+* **추가:** 실시간 접속자 필터링 기능 추가
+* **수정:** 플레이어 상세 정보 화면의 **배치 변경 및 신규 내용 추가**
+
+**[ 인벤토리 감시 ]**
+* **추가:** 상자 감시 기능 추가 `엔더 상자 / 셜커 상자`
+* **추가:** 아이템 도감 기능 추가 `검색 버튼 옆 위치, 드래그&드롭으로 아이템 지급 가능`
+* **추가:** 마우스 우클릭 기능 확장 `수량 수정 / 아이템 삭제`
+* **추가:** 마우스 우클릭 기능 확장 `인천트 부여 및 삭제`
+
+---
+
+</details>
 
 <details>
 <summary><b>v1.1.0 (2026-05-08) - 업데이트 내역</b></summary>
