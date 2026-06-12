@@ -73,7 +73,7 @@
 ## 👨‍💻 Developer
 * **Discord:** `tonic_emong`
 
-[![Discord](https://img.shields.io/badge/Discord-커뮤니티(입장하기)-7289DA?style=for-the-badge&logo=discord)]([https://discord.com/users/tonic_emong](https://discord.gg/HShN8JZmAr))
+[![Discord](https://img.shields.io/badge/Discord-커뮤니티(입장하기)-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/HShN8JZmAr)
 > "프로젝트는 사용자 여러분과 함께 성장합니다! 위 채널을 통해 가감 없는 의견 및 건의를 주시면 감사하겠습니다!"
 ---
 
